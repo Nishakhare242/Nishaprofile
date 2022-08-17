@@ -1,0 +1,6 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://Nishakhare242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@github.com/Nishakhare242/nishaprofile.git
+git push -u origin main
